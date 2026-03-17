@@ -8,9 +8,11 @@ Reference:
 Aulet, L.S. (2026). Dot Array Stimulus Toolbox: An Open-Source Solution for Generating and Analyzing Non-Symbolic Number Stimuli. PsyArXiv.
  (available [here](https://osf.io/preprints/psyarxiv/uhsv6_v1))
 
-While the original toolbox provides a graphical interface through a browser, this one is only a command line version, with the following parameter:
+While the original toolbox provides a graphical interface through a browser, this one is only a command line version, with the following parameters:
 
 ```
+$ dot-array-generator-Aulet -h
+Usage:
   -avg-radius float
     	Average dot radius in pixels (default 15)
   -control-area
