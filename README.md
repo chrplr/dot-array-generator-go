@@ -1,12 +1,12 @@
 dot-array-generator-go
 ----------------------
 
-This is a port of Lauren S. Aulet's [dot-array-generator](https://github.com/laurenaulet/dot-array-stimulus-toolbox) to [Go](https://go.dev).
+This is a port of the [dot array generator](https://github.com/laurenaulet/dot-array-stimulus-toolbox) by [Lauren Aulet](https://sites.google.com/view/laurenaulet) to [Go](https://go.dev).
 
 Reference:
 
-Aulet, L.S. (2026). Dot Array Stimulus Toolbox: An Open-Source Solution for Generating and Analyzing Non-Symbolic Number Stimuli. PsyArXiv.
- (available [here](https://osf.io/preprints/psyarxiv/uhsv6_v1))
+> Aulet, L.S. (2026). Dot Array Stimulus Toolbox: An Open-Source Solution for Generating and Analyzing Non-Symbolic Number Stimuli. PsyArXiv.
+ (paper available [here](https://osf.io/preprints/psyarxiv/uhsv6_v1))
 
 While the original toolbox provides a graphical interface through a browser, this one is only a command line version, with the following parameters:
 
